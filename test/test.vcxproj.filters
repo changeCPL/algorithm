@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\3.1SimpleSimulation">
+      <UniqueIdentifier>{f1ab4b34-e989-4403-9d82-b2a570eba227}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.2ElementSearch">
+      <UniqueIdentifier>{1cc20385-cf4e-4c6d-bd91-2103aa9fc7d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.3PrintGraphic">
+      <UniqueIdentifier>{b73972d4-0d6a-46b9-8170-a69056d85aaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.4Date">
+      <UniqueIdentifier>{0d37cbea-aff5-4f49-995f-81f3f6c6cd10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.5Base">
+      <UniqueIdentifier>{1dc9340b-56f9-4edb-8fd8-139975e2e50b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.6String">
+      <UniqueIdentifier>{9ee04683-58cf-488f-a330-00b69dff496d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.1Sort">
+      <UniqueIdentifier>{2a0366d2-ebda-4f33-905a-f5e243e0ca2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.2Hash">
+      <UniqueIdentifier>{75c3a7f5-9f32-4e0b-b20f-412150faedd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.3Recursive">
+      <UniqueIdentifier>{4e32c6fe-2dc1-4e0b-83ea-3d2924672d9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.4Greedy">
+      <UniqueIdentifier>{38be5fd0-2395-4943-88cf-344296b139d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.5Binary">
+      <UniqueIdentifier>{2e48438b-13a1-4b1e-a920-95d754df1869}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6STL">
+      <UniqueIdentifier>{f2361f00-a7e3-4dcc-ab97-aeab12c8446a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6STL\vector">
+      <UniqueIdentifier>{746677a0-3771-4f22-aac1-c83ebf88c383}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6STL\set">
+      <UniqueIdentifier>{bf5f900b-1df2-40f6-8dab-4fde60d338c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6STL\map">
+      <UniqueIdentifier>{d50426d1-7e1e-450a-a686-07912ee76960}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6STL\queue">
+      <UniqueIdentifier>{7ae2696a-5ed6-4c23-b0e5-46358c285591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6STL\pair">
+      <UniqueIdentifier>{1cbc8e20-c3de-44d3-9db9-d480d9b24f61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6STL\algorithm">
+      <UniqueIdentifier>{2472145d-a5cd-4b73-89e5-4ca97ccacabf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Linklists~">
+      <UniqueIdentifier>{d2db3341-48a8-483f-9ae8-c8b52c73d99b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.6TwoPointers">
+      <UniqueIdentifier>{e625d8da-c769-4ca9-a43d-4a81b57231aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\CCFPractice">
+      <UniqueIdentifier>{22b02845-2d1c-4a73-88b4-eabfeb15f0b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\BinaryTree">
+      <UniqueIdentifier>{576c49fb-0530-4ba1-b118-f40fe780d7b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Dijkstra">
+      <UniqueIdentifier>{97010489-67e9-4570-92e6-c4f156e26fe0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PATB1001.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="PATB1032.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="A_TreeRemained.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="B_AplusB.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="C_SpecialMulti.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="D_CmpOddEven.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="F_APlusBandC.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="G_NumClassification.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="H_PartAplusB.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="A_GradeSummary.cpp">
+      <Filter>源文件\3.2ElementSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="B_SearchX.cpp">
+      <Filter>源文件\3.2ElementSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="D_Search.cpp">
+      <Filter>源文件\3.2ElementSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="E_SearchStu.cpp">
+      <Filter>源文件\3.2ElementSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="PATB1036.cpp">
+      <Filter>源文件\3.3PrintGraphic</Filter>
+    </ClCompile>
+    <ClCompile Include="A_Trapezoid.cpp">
+      <Filter>源文件\3.3PrintGraphic</Filter>
+    </ClCompile>
+    <ClCompile Include="B_HelloWorld4U.cpp">
+      <Filter>源文件\3.3PrintGraphic</Filter>
+    </ClCompile>
+    <ClCompile Include="C_IsoTrap.cpp">
+      <Filter>源文件\3.3PrintGraphic</Filter>
+    </ClCompile>
+    <ClCompile Include="D_Hourglass.cpp">
+      <Filter>源文件\3.3PrintGraphic</Filter>
+    </ClCompile>
+    <ClCompile Include="A_DateDiffer.cpp">
+      <Filter>源文件\3.4Date</Filter>
+    </ClCompile>
+    <ClCompile Include="B_DayofWeek.cpp">
+      <Filter>源文件\3.4Date</Filter>
+    </ClCompile>
+    <ClCompile Include="C_PrintDate.cpp">
+      <Filter>源文件\3.4Date</Filter>
+    </ClCompile>
+    <ClCompile Include="D_DateClass.cpp">
+      <Filter>源文件\3.4Date</Filter>
+    </ClCompile>
+    <ClCompile Include="E_DateCumulative.cpp">
+      <Filter>源文件\3.4Date</Filter>
+    </ClCompile>
+    <ClCompile Include="A_A+B.cpp">
+      <Filter>源文件\3.5Base</Filter>
+    </ClCompile>
+    <ClCompile Include="B_BaseTran.cpp">
+      <Filter>源文件\3.5Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C_D2B.cpp">
+      <Filter>源文件\3.5Base</Filter>
+    </ClCompile>
+    <ClCompile Include="D_D2O.cpp">
+      <Filter>源文件\3.5Base</Filter>
+    </ClCompile>
+    <ClCompile Include="PATB1009.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="A_StrCat.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="B_CapUpper.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="I_CJB____ReadCharWrong.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="E_ShortestDistance____O%28N%29.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="C_SearchStu_____WA5.cpp">
+      <Filter>源文件\3.2ElementSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="D_WordReplace____gets_scanf.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="C_StrSearchDel____EWA.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="E_DelChar.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="F_ArrayInvert.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="G_StrCmp.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="H_ArrangeStr.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="I_PalinStr.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+    <ClCompile Include="PATA1025.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="A_Sort.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="sortbasic.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="B_SpecialSort.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="C_ExcelRank.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="D_StrInterRank.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="E_ProblemB.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="F_WhiteMouse.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="G_Median.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="H_OddEven.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="I_Rank.cpp">
+      <Filter>源文件\4.1Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="A_PotentialFriend.cpp">
+      <Filter>源文件\4.2Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="B_Group___iterator.cpp">
+      <Filter>源文件\4.2Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="C_UniqueNum.cpp">
+      <Filter>源文件\4.2Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="D_StringSubtraction.cpp">
+      <Filter>源文件\4.2Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="NQueen~~lowbit.cpp">
+      <Filter>源文件\4.3Recursive</Filter>
+    </ClCompile>
+    <ClCompile Include="A_Candy.cpp">
+      <Filter>源文件\4.3Recursive</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Pocket.cpp">
+      <Filter>源文件\4.3Recursive</Filter>
+    </ClCompile>
+    <ClCompile Include="B_Sequence~~OLE.cpp">
+      <Filter>源文件\4.3Recursive</Filter>
+    </ClCompile>
+    <ClCompile Include="D_8Queens.cpp">
+      <Filter>源文件\4.3Recursive</Filter>
+    </ClCompile>
+    <ClCompile Include="PATB1020.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="PATB1023.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="A_WatchTV.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="B_TaxiFee.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="C_GasStation~~WA~~.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="D_RepairTheWall.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="E_FM%27S Trade.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="F_.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="G_Change.cpp">
+      <Filter>源文件\4.4Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="binary.cpp">
+      <Filter>源文件\4.5Binary</Filter>
+    </ClCompile>
+    <ClCompile Include="A_Searchx.cpp">
+      <Filter>源文件\4.5Binary</Filter>
+    </ClCompile>
+    <ClCompile Include="B_ExtremeP.cpp">
+      <Filter>源文件\4.5Binary</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Search.cpp">
+      <Filter>源文件\4.5Binary</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_quick.cpp">
+      <Filter>源文件\4.6TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="KMax.cpp">
+      <Filter>源文件\4.6TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>源文件\6STL</Filter>
+    </ClCompile>
+    <ClCompile Include="PATA1060.cpp">
+      <Filter>源文件\6STL</Filter>
+    </ClCompile>
+    <ClCompile Include="PATA1032.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="PATA1052_LinkedListsSoetinng.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="A_CourseLists~.cpp">
+      <Filter>源文件\6STL\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="A_SetSimilarity.cpp">
+      <Filter>源文件\6STL\set</Filter>
+    </ClCompile>
+    <ClCompile Include="A_SpeechPattern.cpp">
+      <Filter>源文件\6STL\map</Filter>
+    </ClCompile>
+    <ClCompile Include="B_StuLists_str.cpp">
+      <Filter>源文件\6STL\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="A_SwapNum.cpp">
+      <Filter>源文件\6STL\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="A_GravityCenter.cpp">
+      <Filter>源文件\6STL\pair</Filter>
+    </ClCompile>
+    <ClCompile Include="A.cpp">
+      <Filter>源文件\6STL\algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="B.cpp">
+      <Filter>源文件\6STL\algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="C.cpp">
+      <Filter>源文件\6STL\algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="B_Merge.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="A_merge.cpp">
+      <Filter>源文件\4.6TwoPointers</Filter>
+    </ClCompile>
+    <ClCompile Include="C_Merge2.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="D_LinklistSearch.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="A_LinklistOp.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="E_~~Reverse.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="F_DelSame.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="190901.cpp">
+      <Filter>源文件\CCFPractice</Filter>
+    </ClCompile>
+    <ClCompile Include="190301.cpp">
+      <Filter>源文件\CCFPractice</Filter>
+    </ClCompile>
+    <ClCompile Include="~LinkedLists~.cpp">
+      <Filter>源文件\Linklists~</Filter>
+    </ClCompile>
+    <ClCompile Include="PATA1020.cpp">
+      <Filter>源文件\BinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="PTAA1043.cpp">
+      <Filter>源文件\BinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="testinsert.cpp">
+      <Filter>源文件\6STL\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="PATA1030.cpp">
+      <Filter>源文件\Dijkstra</Filter>
+    </ClCompile>
+    <ClCompile Include="SpinMatrix.cpp">
+      <Filter>源文件\3.1SimpleSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串匹配.cpp">
+      <Filter>源文件\3.6String</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearch.h">
+      <Filter>源文件\4.5Binary</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SFBJ.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
